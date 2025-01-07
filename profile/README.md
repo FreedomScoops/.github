@@ -9,4 +9,5 @@ https://discord.gg/TSFYwTPqUk.
 
 Also has a small relation to the Luke Ken project universe. 
 
-Freedom Scoops is licensed under the BSD 3-clause: https://opensource.org/licenses/BSD-3-Clause
+Freedom Scoops uses Modified BSD License from Freedoom: 
+https://github.com/FreedomScoops/FreedomScoops/blob/main/COPYING.adoc
